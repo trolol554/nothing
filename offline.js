@@ -1,0 +1,29 @@
+﻿{
+	"version": 1698476400,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/roadtile-sheet0.png",
+		"images/roadtile2-sheet0.png",
+		"images/roadtile3-sheet0.png",
+		"images/tank-sheet0.png",
+		"images/roadtile4-sheet0.png",
+		"images/roadtile5-sheet0.png",
+		"images/roadtile6-sheet0.png",
+		"images/roadtile7-sheet0.png",
+		"images/roadtile8-sheet0.png",
+		"images/gems-sheet0.png",
+		"images/enemyfloating_-sheet0.png",
+		"media/bagus1.m4a",
+		"media/bagus2.m4a",
+		"media/bagus2.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
